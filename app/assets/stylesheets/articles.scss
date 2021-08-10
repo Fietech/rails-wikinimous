@@ -1,0 +1,40 @@
+// Place all the styles related to the articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.container {
+  background: seashell;
+  margin: 50px;
+  background-image: url("https://img.zeit.de/kultur/literatur/2009-11/friedrich-schiller/friedrich-schiller-540x540.jpg/imagegroup/wide__450x253__mobile__scale_2");
+  background-size: cover;
+  padding: 75px;
+}
+
+ul#peter {
+ list-style-type: none;
+ font-size: 24px;
+ font-weight: bold;
+ }
+
+ .form-group {
+   background-color: rgba(220, 220, 220, 0.3);
+ }
+
+ .hans {
+   background-color: rgba(220, 220, 220, 0.3);
+ }
+
+ p {
+   font-size: 28px;
+   font-weight: bold;
+ }
+
+ li {
+   margin: 15px;
+   padding: 20px;
+   background-color: rgba(220, 220, 220, 0.3);
+   text-align: center;
+ }
+
+ li:hover {
+  background-color: rgba(220, 220, 220, 0.7);
+ }
